@@ -34,7 +34,7 @@ numbers is sorted in non-decreasing order.
 The tests are generated such that there is exactly one solution.
 
 
-
+[LeetCode 1394. 找出数组中的幸运数](https://leetcode-cn.com/problems/find-lucky-integer-in-an-array/)
 [好文分享](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/solution/shu-zu-liang-shu-zhi-he-iiyou-xu-shu-zu-punf4/)
 
 關鍵在於數組本身是否有排序過，在无序数组中寻找第二个数就没有多少捷径, 毕竟数组无序, 很多经典的方法都用不上, 最后只能牺牲空间来换取时间, 利用哈希表将空间复杂度增加到了O(n), 从而降低了寻找第二个数的时间复杂度.
