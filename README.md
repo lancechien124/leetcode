@@ -1,6 +1,10 @@
 # leetcode
 
 LeetCode 练习笔记
+參考文件：
+[所有题解的目录链接: 思维导图整理大厂面试高频题(持续更新中)](https://leetcode-cn.com/problems/two-sum/solution/suo-you-ti-jie-de-mu-lu-lian-jie-si-wei-ecnoo/)
+![image](https://user-images.githubusercontent.com/35227000/166711081-0b0cf5b6-a0fc-4d80-806c-9b8229706535.png)
+
 
 
 |题目	|难度	|标签	|时间|Page|
