@@ -5,7 +5,7 @@ LeetCode 练习笔记
 
 |题目	|难度	|标签	|时间|Page|
 |:------:|:----------:|:------------:|:------------:|:------------:|
-|[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|简单|数组|2022-05-04|[Page](https://github.com/lancechien124/leetcode/blob/main/MDfiles/medium/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)|
+|[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|简单|数组|2022-05-04|[Solution](https://github.com/lancechien124/leetcode/blob/main/MDfiles/medium/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)|
 
 
 |题目	|难度	|标签	|时间|
